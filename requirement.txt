@@ -1,2 +1,2 @@
-pands
-numpy
+Pandas
+Numpy
